@@ -8,4 +8,5 @@ The player will go through 7 different encounters untill they reach the final ob
 
 Instructions on how to run:
 Download all .py files.
+
 Run main.py
