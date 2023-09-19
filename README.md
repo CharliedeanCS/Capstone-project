@@ -7,5 +7,7 @@ These different options result in different rewards,loot and bonus points to you
 The player will go through 7 different encounters untill they reach the final obsticle. The Persian empire.
 
 Instructions on how to run:
+
 Download all .py files.
+
 Run main.py
